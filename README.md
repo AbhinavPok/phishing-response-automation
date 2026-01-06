@@ -4,6 +4,7 @@ A phishing analysis and response automation pipeline designed to reflect how a r
 
 This project emphasizes **explainability**, **structured decision-making**, and **audit-ready outputs**, rather than automated destructive actions.
 
+Before running the projects Please make sure to read all the documents in this folder. Thank you 
 ---
 
 ## Overview
