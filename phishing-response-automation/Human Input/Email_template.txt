@@ -1,0 +1,15 @@
+SENDER:
+Name <email@domain>
+
+SUBJECT:
+Short subject line here
+
+BODY:
+Paste the full email body here.
+
+Include everything the user received:
+- Instructions
+- Links (do not click them)
+- Claims
+- Urgency language
+- Signatures
