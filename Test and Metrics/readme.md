@@ -6,10 +6,9 @@ This file documents **where testing artifacts live** for this project.
 
 ## Test Files Location
 
-All test inputs used to validate this project are located in the `/tests` directory.
+All test inputs used to validate this project are located in this directory.
 
 ```
-/tests
 ```
 
 These files contain controlled phishing and benign email samples used to verify:
