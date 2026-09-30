@@ -1,5 +1,5 @@
 ## File Overview 
-**⚠️ This application automatically creates local incident record files at runtime.  
+**This application automatically creates local incident record files at runtime.  
 No `records/` or report files are required to exist in the repository beforehand.**
 
 ---
